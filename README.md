@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @iainharfield
-- 👀 I’m interested in ESP home automation and general messing about. I have built drones using RPI
+- 👀 I’m interested in home automation and general messing about with elctronics and software.
+- ** I have built drones (quad and octo) using RPI.
 
 
 
